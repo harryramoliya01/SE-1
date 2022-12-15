@@ -10,7 +10,7 @@
     "@aws-sdk/client-ses": "^3.38.0",
     "cors": "^2.8.5",
     "dompurify": "^2.3.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^4.6.0",
     "jsdom": "^18.0.0",
     "serverless-http": "^2.7.0"
